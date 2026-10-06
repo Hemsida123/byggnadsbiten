@@ -1,0 +1,742 @@
+{
+  "instagram": "https://www.instagram.com/byggnadsbiten_dalarna/",
+  "assets": [
+    {
+      "filename": "logo.png",
+      "id": 10769,
+      "original_url": "https://s3.eu-west-2.amazonaws.com/byggservice/photos/images/000/010/769/medium/Byggnadsbiten-Logo2021.2-removebg-preview.png?1623325363",
+      "source_pages": [
+        "https://www.byggnadsbiten.se/",
+        "https://www.byggnadsbiten.se/sida/dalakaken"
+      ],
+      "source_alt": "Byggnadsbiten Dalarna AB logotyp",
+      "description": "Byggnadsbitens befintliga transparenta logotyp, svart emblem och röda vingar.",
+      "stock_filename": false,
+      "bytes": 138095,
+      "width": 500,
+      "height": 377
+    },
+    {
+      "filename": "image-25227.jpg",
+      "id": 25227,
+      "original_url": "https://s3.eu-west-2.amazonaws.com/byggservice/photos/images/000/025/227/large/bild-pa-byggnadsbiten-dalarna-ab-snickare-i-dalarnas-lan.jpg?1690875299",
+      "source_pages": [
+        "https://www.byggnadsbiten.se/",
+        "https://www.byggnadsbiten.se/sida/dalakaken",
+        "https://www.byggnadsbiten.se/sida/inspiration"
+      ],
+      "source_alt": "Fönsterbyten",
+      "description": "Dalakåken – badrum och spröjsade fönster",
+      "stock_filename": false,
+      "description_basis": "Visual inspection; Dalakåken project name only used where source project page confirms the association.",
+      "bytes": 183692,
+      "width": 1170,
+      "height": 876
+    },
+    {
+      "filename": "image-12117.jpg",
+      "id": 12117,
+      "original_url": "https://s3.eu-west-2.amazonaws.com/byggservice/photos/images/000/012/117/large/snickare_i_borla%CC%88nge.jpg?1633520734",
+      "source_pages": [
+        "https://www.byggnadsbiten.se/",
+        "https://www.byggnadsbiten.se/sida/inspiration"
+      ],
+      "source_alt": "Köksrenovering",
+      "description": "Kök med gröna skåpluckor",
+      "stock_filename": false,
+      "description_basis": "Visual inspection; Dalakåken project name only used where source project page confirms the association.",
+      "bytes": 158365,
+      "width": 1200,
+      "height": 892
+    },
+    {
+      "filename": "image-25239.png",
+      "id": 25239,
+      "original_url": "https://s3.eu-west-2.amazonaws.com/byggservice/photos/images/000/025/239/large/foretagsbild-pa-byggnadsbiten-dalarna-ab-ett-snickeriforetag-i-dalarnas-lan-2023.png?1690979176",
+      "source_pages": [
+        "https://www.byggnadsbiten.se/",
+        "https://www.byggnadsbiten.se/sida/inspiration"
+      ],
+      "source_alt": "Ombyggnationer",
+      "description": "Tillbyggnad med röd träfasad",
+      "stock_filename": false,
+      "description_basis": "Visual inspection; Dalakåken project name only used where source project page confirms the association.",
+      "bytes": 277875,
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "filename": "image-8776.jpg",
+      "id": 8776,
+      "original_url": "https://s3.eu-west-2.amazonaws.com/byggservice/photos/images/000/008/776/large/Fo%CC%88nsterbyte_Dalarna.jpg?1606895515",
+      "source_pages": [
+        "https://www.byggnadsbiten.se/",
+        "https://www.byggnadsbiten.se/sida/inspiration"
+      ],
+      "source_alt": "Om oss",
+      "description": "Om oss",
+      "stock_filename": false,
+      "bytes": 304802,
+      "width": 1200,
+      "height": 675
+    },
+    {
+      "filename": "image-25222.jpg",
+      "id": 25222,
+      "original_url": "https://s3.eu-west-2.amazonaws.com/byggservice/photos/images/000/025/222/large/bild-pa-byggnadsbiten-dalarna-ab-snickare-i-mockfjard.jpg?1690875216",
+      "source_pages": [
+        "https://www.byggnadsbiten.se/",
+        "https://www.byggnadsbiten.se/sida/dalakaken",
+        "https://www.byggnadsbiten.se/sida/inspiration"
+      ],
+      "source_alt": "Dalakåken",
+      "description": "Dalakåken – fasad mot trädgården",
+      "stock_filename": false,
+      "description_basis": "Visual inspection; Dalakåken project name only used where source project page confirms the association.",
+      "bytes": 221269,
+      "width": 1170,
+      "height": 876
+    },
+    {
+      "filename": "image-6999.jpg",
+      "id": 6999,
+      "original_url": "https://s3.eu-west-2.amazonaws.com/byggservice/photos/images/000/006/999/large/SNICKARE_DALRNA_BORLA%CC%88NGE.jpg?1584493416",
+      "source_pages": [
+        "https://www.byggnadsbiten.se/",
+        "https://www.byggnadsbiten.se/sida/inspiration"
+      ],
+      "source_alt": "Recensioner",
+      "description": "Recensioner",
+      "stock_filename": false,
+      "bytes": 588414,
+      "width": 1200,
+      "height": 900
+    },
+    {
+      "filename": "image-24866.jpg",
+      "id": 24866,
+      "original_url": "https://s3.eu-west-2.amazonaws.com/byggservice/photos/images/000/024/866/large/foretagsbild-pa-byggnadsbiten-dalarna-ab-snickare-i-dalarnas-lan.jpg?1688405337",
+      "source_pages": [
+        "https://www.byggnadsbiten.se/",
+        "https://www.byggnadsbiten.se/sida/inspiration"
+      ],
+      "source_alt": "Inspiration",
+      "description": "Kök och matplats",
+      "stock_filename": false,
+      "description_basis": "Visual inspection; Dalakåken project name only used where source project page confirms the association.",
+      "bytes": 110999,
+      "width": 820,
+      "height": 600
+    },
+    {
+      "filename": "image-10699.jpg",
+      "id": 10699,
+      "original_url": "https://s3.eu-west-2.amazonaws.com/byggservice/photos/images/000/010/699/large/F%C3%B6nsterbyte_Borl%C3%A4nge_renovering.jpg?1622722689",
+      "source_pages": [
+        "https://www.byggnadsbiten.se/",
+        "https://www.byggnadsbiten.se/sida/inspiration"
+      ],
+      "source_alt": "Våra tjänster",
+      "description": "Snickare monterar dörr",
+      "stock_filename": false,
+      "description_basis": "Visual inspection; Dalakåken project name only used where source project page confirms the association.",
+      "bytes": 119818,
+      "width": 1080,
+      "height": 839
+    },
+    {
+      "filename": "image-25226.jpg",
+      "id": 25226,
+      "original_url": "https://s3.eu-west-2.amazonaws.com/byggservice/photos/images/000/025/226/large/foretagsbild-pa-byggnadsbiten-dalarna-ab-en-snickare-i-dalarnas-lan.jpg?1690875294",
+      "source_pages": [
+        "https://www.byggnadsbiten.se/sida/dalakaken",
+        "https://www.byggnadsbiten.se/sida/inspiration"
+      ],
+      "source_alt": "Företagsbild på Byggnadsbiten Dalarna AB – En snickare i Dalarnas län",
+      "description": "Dalakåken – matplats och vardagsrum",
+      "stock_filename": false,
+      "description_basis": "Visual inspection; Dalakåken project name only used where source project page confirms the association.",
+      "bytes": 127661,
+      "width": 1170,
+      "height": 877
+    },
+    {
+      "filename": "image-25225.jpg",
+      "id": 25225,
+      "original_url": "https://s3.eu-west-2.amazonaws.com/byggservice/photos/images/000/025/225/large/bild-pa-byggnadsbiten-dalarna-ab-snickare-i-dalarnas-lan.jpg?1690875290",
+      "source_pages": [
+        "https://www.byggnadsbiten.se/sida/dalakaken",
+        "https://www.byggnadsbiten.se/sida/inspiration"
+      ],
+      "source_alt": "Bild på Byggnadsbiten Dalarna AB – snickare i Dalarnas län",
+      "description": "Dalakåken – kök",
+      "stock_filename": false,
+      "description_basis": "Visual inspection; Dalakåken project name only used where source project page confirms the association.",
+      "bytes": 94900,
+      "width": 1170,
+      "height": 877
+    },
+    {
+      "filename": "image-25228.jpg",
+      "id": 25228,
+      "original_url": "https://s3.eu-west-2.amazonaws.com/byggservice/photos/images/000/025/228/large/bild-pa-byggnadsbiten-dalarna-ab-snickare-i-dalarnas-lan.jpg?1690875304",
+      "source_pages": [
+        "https://www.byggnadsbiten.se/sida/dalakaken",
+        "https://www.byggnadsbiten.se/sida/inspiration"
+      ],
+      "source_alt": "Bild på Byggnadsbiten Dalarna AB – snickare i Dalarnas län",
+      "description": "Dalakåken – vardagsrum med pardörrar",
+      "stock_filename": false,
+      "description_basis": "Visual inspection; Dalakåken project name only used where source project page confirms the association.",
+      "bytes": 104342,
+      "width": 1170,
+      "height": 876
+    },
+    {
+      "filename": "image-25224.jpg",
+      "id": 25224,
+      "original_url": "https://s3.eu-west-2.amazonaws.com/byggservice/photos/images/000/025/224/large/foretagsbild-pa-byggnadsbiten-dalarna-ab-snickare-i-dalarnas-lan.jpg?1690875285",
+      "source_pages": [
+        "https://www.byggnadsbiten.se/sida/dalakaken",
+        "https://www.byggnadsbiten.se/sida/inspiration"
+      ],
+      "source_alt": "Företagsbild på Byggnadsbiten Dalarna AB – snickare i Dalarnas län",
+      "description": "Dalakåken – sovrum på övervåningen",
+      "stock_filename": false,
+      "description_basis": "Visual inspection; Dalakåken project name only used where source project page confirms the association.",
+      "bytes": 101782,
+      "width": 1170,
+      "height": 876
+    },
+    {
+      "filename": "image-24874.jpg",
+      "id": 24874,
+      "original_url": "https://s3.eu-west-2.amazonaws.com/byggservice/photos/images/000/024/874/large/bild-pa-byggnadsbiten-dalarna-ab-snickare-i-mockfjard.jpg?1688467767",
+      "source_pages": [
+        "https://www.byggnadsbiten.se/sida/dalakaken",
+        "https://www.byggnadsbiten.se/sida/inspiration"
+      ],
+      "source_alt": "Bild på Byggnadsbiten Dalarna AB – snickare i Mockfjärd",
+      "description": "Carport med förråd",
+      "stock_filename": false,
+      "description_basis": "Visual inspection; Dalakåken project name only used where source project page confirms the association.",
+      "bytes": 125668,
+      "width": 680,
+      "height": 317
+    },
+    {
+      "filename": "image-12185.jpg",
+      "id": 12185,
+      "original_url": "https://s3.eu-west-2.amazonaws.com/byggservice/photos/images/000/012/185/large/fo%CC%88nsterbyte_dalarna.jpg?1634109598",
+      "source_pages": [
+        "https://www.byggnadsbiten.se/sida/dalakaken",
+        "https://www.byggnadsbiten.se/sida/inspiration"
+      ],
+      "source_alt": "bild",
+      "description": "bild",
+      "stock_filename": false,
+      "bytes": 96554,
+      "width": 1200,
+      "height": 993
+    },
+    {
+      "filename": "image-10702.jpg",
+      "id": 10702,
+      "original_url": "https://s3.eu-west-2.amazonaws.com/byggservice/photos/images/000/010/702/large/tr%C3%A4f%C3%B6nster_f%C3%B6nsterbyte_Borl%C3%A4nge.jpg?1622722759",
+      "source_pages": [
+        "https://www.byggnadsbiten.se/sida/dalakaken",
+        "https://www.byggnadsbiten.se/sida/inspiration"
+      ],
+      "source_alt": "byta fönster",
+      "description": "byta fönster",
+      "stock_filename": false,
+      "bytes": 241220,
+      "width": 1200,
+      "height": 764
+    },
+    {
+      "filename": "image-25241.jpg",
+      "id": 25241,
+      "original_url": "https://s3.eu-west-2.amazonaws.com/byggservice/photos/images/000/025/241/large/bild-pa-byggnadsbiten-dalarna-ab-snickare-i-dalarnas-lan.jpg?1690988444",
+      "source_pages": [
+        "https://www.byggnadsbiten.se/sida/inspiration"
+      ],
+      "source_alt": "Bild på Byggnadsbiten Dalarna AB – snickare i Dalarnas län",
+      "description": "Entrétrappa och pardörrar",
+      "stock_filename": false,
+      "description_basis": "Visual inspection; Dalakåken project name only used where source project page confirms the association.",
+      "bytes": 256510,
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "filename": "image-25244.jpg",
+      "id": 25244,
+      "original_url": "https://s3.eu-west-2.amazonaws.com/byggservice/photos/images/000/025/244/large/foretagsbild-pa-byggnadsbiten-dalarna-ab-ett-snickeriforetag-i-mockfjard-2023.jpg?1690988448",
+      "source_pages": [
+        "https://www.byggnadsbiten.se/sida/inspiration"
+      ],
+      "source_alt": "Företagsbild på Byggnadsbiten Dalarna AB – Ett snickeriföretag i Mockfjärd 2023",
+      "description": "Carport med förråd",
+      "stock_filename": false,
+      "description_basis": "Visual inspection; Dalakåken project name only used where source project page confirms the association.",
+      "bytes": 171374,
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "filename": "image-25245.jpg",
+      "id": 25245,
+      "original_url": "https://s3.eu-west-2.amazonaws.com/byggservice/photos/images/000/025/245/large/foretagsbild-pa-byggnadsbiten-dalarna-ab-ett-snickeriforetag-i-mockfjard-2023.jpg?1690988452",
+      "source_pages": [
+        "https://www.byggnadsbiten.se/sida/inspiration"
+      ],
+      "source_alt": "Företagsbild på Byggnadsbiten Dalarna AB – Ett snickeriföretag i Mockfjärd 2023",
+      "description": "Företagsbild på Byggnadsbiten Dalarna AB – Ett snickeriföretag i Mockfjärd 2023",
+      "stock_filename": false,
+      "bytes": 690035,
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "filename": "image-25243.jpg",
+      "id": 25243,
+      "original_url": "https://s3.eu-west-2.amazonaws.com/byggservice/photos/images/000/025/243/large/foretagsbild-pa-byggnadsbiten-dalarna-ab-snickare-i-dalarnas-lan.jpg?1690988450",
+      "source_pages": [
+        "https://www.byggnadsbiten.se/sida/inspiration"
+      ],
+      "source_alt": "Företagsbild på Byggnadsbiten Dalarna AB – snickare i Dalarnas län",
+      "description": "Företagsbild på Byggnadsbiten Dalarna AB – snickare i Dalarnas län",
+      "stock_filename": false,
+      "bytes": 116236,
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "filename": "image-25242.jpg",
+      "id": 25242,
+      "original_url": "https://s3.eu-west-2.amazonaws.com/byggservice/photos/images/000/025/242/large/foretagsbild-pa-byggnadsbiten-dalarna-ab-ett-snickeriforetag-i-mockfjard.jpg?1690988450",
+      "source_pages": [
+        "https://www.byggnadsbiten.se/sida/inspiration"
+      ],
+      "source_alt": "Företagsbild på Byggnadsbiten Dalarna AB – Ett snickeriföretag i Mockfjärd",
+      "description": "Företagsbild på Byggnadsbiten Dalarna AB – Ett snickeriföretag i Mockfjärd",
+      "stock_filename": false,
+      "bytes": 518692,
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "filename": "image-25223.jpg",
+      "id": 25223,
+      "original_url": "https://s3.eu-west-2.amazonaws.com/byggservice/photos/images/000/025/223/large/foretagsbild-pa-byggnadsbiten-dalarna-ab-ett-snickeriforetag-i-mockfjard.jpg?1690875279",
+      "source_pages": [
+        "https://www.byggnadsbiten.se/sida/inspiration"
+      ],
+      "source_alt": "Företagsbild på Byggnadsbiten Dalarna AB – Ett snickeriföretag i Mockfjärd",
+      "description": "Företagsbild på Byggnadsbiten Dalarna AB – Ett snickeriföretag i Mockfjärd",
+      "stock_filename": false,
+      "bytes": 131286,
+      "width": 900,
+      "height": 1200
+    },
+    {
+      "filename": "image-25240.jpg",
+      "id": 25240,
+      "original_url": "https://s3.eu-west-2.amazonaws.com/byggservice/photos/images/000/025/240/large/foretagsbild-pa-byggnadsbiten-dalarna-ab-en-snickare-i-dalarnas-lan.jpg?1690988443",
+      "source_pages": [
+        "https://www.byggnadsbiten.se/sida/inspiration"
+      ],
+      "source_alt": "Företagsbild på Byggnadsbiten Dalarna AB – En snickare i Dalarnas län",
+      "description": "Företagsbild på Byggnadsbiten Dalarna AB – En snickare i Dalarnas län",
+      "stock_filename": false,
+      "bytes": 259630,
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "filename": "image-25236.jpg",
+      "id": 25236,
+      "original_url": "https://s3.eu-west-2.amazonaws.com/byggservice/photos/images/000/025/236/large/bild-pa-byggnadsbiten-dalarna-ab-snickare-i-dalarnas-lan.jpg?1690978797",
+      "source_pages": [
+        "https://www.byggnadsbiten.se/sida/inspiration"
+      ],
+      "source_alt": "Bild på Byggnadsbiten Dalarna AB – snickare i Dalarnas län",
+      "description": "Bild på Byggnadsbiten Dalarna AB – snickare i Dalarnas län",
+      "stock_filename": false,
+      "bytes": 247698,
+      "width": 898,
+      "height": 1200
+    },
+    {
+      "filename": "image-24873.jpg",
+      "id": 24873,
+      "original_url": "https://s3.eu-west-2.amazonaws.com/byggservice/photos/images/000/024/873/large/foretagsbild-pa-byggnadsbiten-dalarna-ab-ett-snickeriforetag-i-mockfjard.jpg?1688467764",
+      "source_pages": [
+        "https://www.byggnadsbiten.se/sida/inspiration"
+      ],
+      "source_alt": "Företagsbild på Byggnadsbiten Dalarna AB – Ett snickeriföretag i Mockfjärd",
+      "description": "Företagsbild på Byggnadsbiten Dalarna AB – Ett snickeriföretag i Mockfjärd",
+      "stock_filename": false,
+      "bytes": 129950,
+      "width": 680,
+      "height": 382
+    },
+    {
+      "filename": "image-24868.jpg",
+      "id": 24868,
+      "original_url": "https://s3.eu-west-2.amazonaws.com/byggservice/photos/images/000/024/868/large/bild-pa-byggnadsbiten-dalarna-ab-snickeriforetag-snickare-i-mockfjard-dalarnas-lan.jpg?1688467763",
+      "source_pages": [
+        "https://www.byggnadsbiten.se/sida/inspiration"
+      ],
+      "source_alt": "Bild på Byggnadsbiten Dalarna AB – snickeriföretag & snickare i Mockfjärd (Dalarnas län)",
+      "description": "Badrum med dusch",
+      "stock_filename": false,
+      "description_basis": "Visual inspection; Dalakåken project name only used where source project page confirms the association.",
+      "bytes": 34709,
+      "width": 382,
+      "height": 510
+    },
+    {
+      "filename": "image-24872.jpg",
+      "id": 24872,
+      "original_url": "https://s3.eu-west-2.amazonaws.com/byggservice/photos/images/000/024/872/large/foretagsbild-pa-byggnadsbiten-dalarna-ab-en-snickare-i-dalarnas-lan.jpg?1688467764",
+      "source_pages": [
+        "https://www.byggnadsbiten.se/sida/inspiration"
+      ],
+      "source_alt": "Företagsbild på Byggnadsbiten Dalarna AB – En snickare i Dalarnas län",
+      "description": "Företagsbild på Byggnadsbiten Dalarna AB – En snickare i Dalarnas län",
+      "stock_filename": false,
+      "bytes": 123110,
+      "width": 680,
+      "height": 317
+    },
+    {
+      "filename": "image-24871.jpg",
+      "id": 24871,
+      "original_url": "https://s3.eu-west-2.amazonaws.com/byggservice/photos/images/000/024/871/large/foretagsbild-pa-byggnadsbiten-dalarna-ab-en-snickare-i-dalarnas-lan.jpg?1688467764",
+      "source_pages": [
+        "https://www.byggnadsbiten.se/sida/inspiration"
+      ],
+      "source_alt": "Företagsbild på Byggnadsbiten Dalarna AB – En snickare i Dalarnas län",
+      "description": "Företagsbild på Byggnadsbiten Dalarna AB – En snickare i Dalarnas län",
+      "stock_filename": false,
+      "bytes": 179672,
+      "width": 680,
+      "height": 510
+    },
+    {
+      "filename": "image-24870.jpg",
+      "id": 24870,
+      "original_url": "https://s3.eu-west-2.amazonaws.com/byggservice/photos/images/000/024/870/large/bild-pa-byggnadsbiten-dalarna-ab-snickeriforetag-snickare-i-mockfjard-dalarnas-lan.jpg?1688467764",
+      "source_pages": [
+        "https://www.byggnadsbiten.se/sida/inspiration"
+      ],
+      "source_alt": "Bild på Byggnadsbiten Dalarna AB – snickeriföretag & snickare i Mockfjärd (Dalarnas län)",
+      "description": "Bild på Byggnadsbiten Dalarna AB – snickeriföretag & snickare i Mockfjärd (Dalarnas län)",
+      "stock_filename": false,
+      "bytes": 108450,
+      "width": 382,
+      "height": 510
+    },
+    {
+      "filename": "image-24869.jpg",
+      "id": 24869,
+      "original_url": "https://s3.eu-west-2.amazonaws.com/byggservice/photos/images/000/024/869/large/foretagsbild-pa-byggnadsbiten-dalarna-ab-ett-snickeriforetag-i-dalarnas-lan.jpg?1688467764",
+      "source_pages": [
+        "https://www.byggnadsbiten.se/sida/inspiration"
+      ],
+      "source_alt": "Företagsbild på Byggnadsbiten Dalarna AB – Ett snickeriföretag i Dalarnas län",
+      "description": "Företagsbild på Byggnadsbiten Dalarna AB – Ett snickeriföretag i Dalarnas län",
+      "stock_filename": false,
+      "bytes": 170831,
+      "width": 680,
+      "height": 382
+    },
+    {
+      "filename": "image-12122.jpg",
+      "id": 12122,
+      "original_url": "https://s3.eu-west-2.amazonaws.com/byggservice/photos/images/000/012/122/large/snickare_leksand.jpg?1633610737",
+      "source_pages": [
+        "https://www.byggnadsbiten.se/sida/inspiration"
+      ],
+      "source_alt": "Byggnadsbiten Dalarna AB i Mockfjärd",
+      "description": "Badrum med träbänkskiva",
+      "stock_filename": false,
+      "description_basis": "Visual inspection; Dalakåken project name only used where source project page confirms the association.",
+      "bytes": 114712,
+      "width": 1200,
+      "height": 998
+    },
+    {
+      "filename": "image-12116.jpg",
+      "id": 12116,
+      "original_url": "https://s3.eu-west-2.amazonaws.com/byggservice/photos/images/000/012/116/large/snickeri_borla%CC%88nge.jpg?1633520466",
+      "source_pages": [
+        "https://www.byggnadsbiten.se/sida/inspiration"
+      ],
+      "source_alt": "Byggnadsbiten Dalarna AB i Mockfjärd",
+      "description": "Byggnadsbiten Dalarna AB i Mockfjärd",
+      "stock_filename": false,
+      "bytes": 128110,
+      "width": 1200,
+      "height": 938
+    },
+    {
+      "filename": "image-12118.jpg",
+      "id": 12118,
+      "original_url": "https://s3.eu-west-2.amazonaws.com/byggservice/photos/images/000/012/118/large/snickeri_borla%CC%88nge.jpg?1633521054",
+      "source_pages": [
+        "https://www.byggnadsbiten.se/sida/inspiration"
+      ],
+      "source_alt": "Byggnadsbiten Dalarna AB i Mockfjärd",
+      "description": "Byggnadsbiten Dalarna AB i Mockfjärd",
+      "stock_filename": false,
+      "bytes": 142348,
+      "width": 1200,
+      "height": 683
+    },
+    {
+      "filename": "image-10700.jpg",
+      "id": 10700,
+      "original_url": "https://s3.eu-west-2.amazonaws.com/byggservice/photos/images/000/010/700/large/F%C3%B6nsterf%C3%B6retag_Borl%C3%A4nge_renovering.jpg?1622722730",
+      "source_pages": [
+        "https://www.byggnadsbiten.se/sida/inspiration"
+      ],
+      "source_alt": "Byggnadsbiten Dalarna AB i Mockfjärd",
+      "description": "Byggnadsbiten Dalarna AB i Mockfjärd",
+      "stock_filename": false,
+      "bytes": 225580,
+      "width": 1080,
+      "height": 810
+    },
+    {
+      "filename": "image-6993.jpg",
+      "id": 6993,
+      "original_url": "https://s3.eu-west-2.amazonaws.com/byggservice/photos/images/000/006/993/large/Snickare_falun_Borla%CC%88nge.jpg?1584492907",
+      "source_pages": [
+        "https://www.byggnadsbiten.se/sida/inspiration"
+      ],
+      "source_alt": "Byggnadsbiten Dalarna AB i Mockfjärd",
+      "description": "Byggnadsbiten Dalarna AB i Mockfjärd",
+      "stock_filename": false,
+      "bytes": 396884,
+      "width": 1200,
+      "height": 900
+    },
+    {
+      "filename": "image-31177.png",
+      "id": 31177,
+      "original_url": "https://s3.eu-west-2.amazonaws.com/byggservice/photos/images/000/031/177/large/foretagsbild-pa-byggnadsbiten-dalarna-ab-snickare-i-dalarnas-lan.png?1708960222",
+      "source_pages": [
+        "https://www.byggnadsbiten.se/sida/inspiration"
+      ],
+      "source_alt": "murning",
+      "description": "Murare vid öppen spis",
+      "stock_filename": false,
+      "description_basis": "Visual inspection; Dalakåken project name only used where source project page confirms the association.",
+      "bytes": 1059776,
+      "width": 1200,
+      "height": 831
+    },
+    {
+      "filename": "image-6992.jpg",
+      "id": 6992,
+      "original_url": "https://s3.eu-west-2.amazonaws.com/byggservice/photos/images/000/006/992/large/Snickare_Gagnef.jpg?1584492851",
+      "source_pages": [
+        "https://www.byggnadsbiten.se/sida/inspiration"
+      ],
+      "source_alt": "Byggnadsbiten Dalarna AB i Mockfjärd",
+      "description": "Byggnadsbiten Dalarna AB i Mockfjärd",
+      "stock_filename": false,
+      "bytes": 241994,
+      "width": 1080,
+      "height": 810
+    },
+    {
+      "filename": "image-8693.jpg",
+      "id": 8693,
+      "original_url": "https://s3.eu-west-2.amazonaws.com/byggservice/photos/images/000/008/693/large/Fo%CC%88nsterbyte_Dalarna1739284739_2.jpg?1606395583",
+      "source_pages": [
+        "https://www.byggnadsbiten.se/sida/inspiration"
+      ],
+      "source_alt": "Byggnadsbiten Dalarna AB i Mockfjärd",
+      "description": "Byggnadsbiten Dalarna AB i Mockfjärd",
+      "stock_filename": false,
+      "bytes": 208921,
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "filename": "image-10790.jpg",
+      "id": 10790,
+      "original_url": "https://s3.eu-west-2.amazonaws.com/byggservice/photos/images/000/010/790/large/shutterstock_300441380.22.jpg?1623329061",
+      "source_pages": [
+        "https://www.byggnadsbiten.se/sida/inspiration"
+      ],
+      "source_alt": "fönsterbyte",
+      "description": "Fönsterbyte – källfilens namn anger Shutterstock; ska inte presenteras som dokumentation av eget projekt.",
+      "stock_filename": true,
+      "bytes": 164867,
+      "width": 1200,
+      "height": 778
+    },
+    {
+      "filename": "image-10771.jpg",
+      "id": 10771,
+      "original_url": "https://s3.eu-west-2.amazonaws.com/byggservice/photos/images/000/010/771/large/133816573_861731004670363_983962541852242252_n.jpg?1623326612",
+      "source_pages": [
+        "https://www.byggnadsbiten.se/sida/inspiration"
+      ],
+      "source_alt": "Byggnadsbiten Dalarna AB i Mockfjärd",
+      "description": "Byggnadsbiten Dalarna AB i Mockfjärd",
+      "stock_filename": false,
+      "bytes": 117925,
+      "width": 1080,
+      "height": 1080
+    },
+    {
+      "filename": "hero-poster.jpg",
+      "original_url": "https://i.vimeocdn.com/video/1705392895-5a2532273b611dbb30d4d251c7c5a362dd5ed704de22332d4b35eb8be5aa88d1-d",
+      "source_pages": [
+        "https://www.byggnadsbiten.se/",
+        "https://player.vimeo.com/video/850875029"
+      ],
+      "description": "Officiell Vimeo-affischbild för Startfilm-Byggnadsbiten",
+      "kind": "video_poster",
+      "bytes": 450191,
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "filename": "video-850066909-poster.jpg",
+      "original_url": "https://i.vimeocdn.com/video/1704355255-9f83aef5f0ffd97454d3e4bf9983a5e5addf9ba14c92dfd0c6f50633bb83a5df-d",
+      "source_pages": [
+        "https://www.byggnadsbiten.se/sida/dalakaken",
+        "https://player.vimeo.com/video/850066909"
+      ],
+      "description": "Officiell Vimeo-affischbild för Dalakåken del 2- Byggnadsbiten",
+      "kind": "video_poster",
+      "bytes": 448917,
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "filename": "video-850067104-poster.jpg",
+      "original_url": "https://i.vimeocdn.com/video/1704355584-0ff66ee7b4dba7981b259f11e59de4e6205999b7d6d9fcc6a771b03ed8ed545f-d",
+      "source_pages": [
+        "https://www.byggnadsbiten.se/sida/dalakaken",
+        "https://player.vimeo.com/video/850067104"
+      ],
+      "description": "Officiell Vimeo-affischbild för Dalakåken grund- Byggnadsbiten",
+      "kind": "video_poster",
+      "bytes": 382543,
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "filename": "video-850066379-poster.jpg",
+      "original_url": "https://i.vimeocdn.com/video/1704354486-0c372c833ab580ddc143e6564f7a8dbbe9629fbe53f74f09305078b6d8b6dee8-d",
+      "source_pages": [
+        "https://www.byggnadsbiten.se/sida/dalakaken",
+        "https://player.vimeo.com/video/850066379"
+      ],
+      "description": "Officiell Vimeo-affischbild för Dalakåken del 1-Bygggnadbiten",
+      "kind": "video_poster",
+      "bytes": 154168,
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "filename": "video-850908202-poster.jpg",
+      "original_url": "https://i.vimeocdn.com/video/1705435789-d74abd05a3a406adc2fb73c2a9f6c4cb517a94caf273c9cad6a62f0743aef960-d",
+      "source_pages": [
+        "https://www.byggnadsbiten.se/sida/dalakaken",
+        "https://player.vimeo.com/video/850908202"
+      ],
+      "description": "Officiell Vimeo-affischbild för Tegelläggning-Byggnadsbiten",
+      "kind": "video_poster",
+      "bytes": 317068,
+      "width": 1920,
+      "height": 1080
+    }
+  ],
+  "videos": [
+    {
+      "source_page": "https://www.byggnadsbiten.se/",
+      "embed_url": "https://player.vimeo.com/video/850875029?badge=0&autopause=0&player_id=0&app_id=58479&badge=0&loop=1&autopause=0&player_id=0&autoplay=1&muted=1&background=1",
+      "id": "850875029",
+      "title": "Startfilm-Byggnadsbiten",
+      "duration": 17,
+      "width": 1920,
+      "height": 1080,
+      "embed_code": "<iframe title=\"vimeo-player\" src=\"https://player.vimeo.com/video/850875029?h=be779003c0\" width=\"640\" height=\"360\" frameborder=\"0\" referrerpolicy=\"strict-origin-when-cross-origin\" allow=\"autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share\"   allowfullscreen></iframe>",
+      "thumbnail_url": "https://i.vimeocdn.com/video/1705392895-5a2532273b611dbb30d4d251c7c5a362dd5ed704de22332d4b35eb8be5aa88d1-d",
+      "embed_permission": "public",
+      "poster_filename": "hero-poster.jpg",
+      "playback_note": "Official public Vimeo embed. Public configuration offers expiring HLS/DASH streaming URLs, no stable progressive MP4."
+    },
+    {
+      "source_page": "https://www.byggnadsbiten.se/sida/dalakaken",
+      "embed_url": "https://player.vimeo.com/video/850066909?share=copy",
+      "id": "850066909",
+      "title": "Dalakåken del 2- Byggnadsbiten",
+      "duration": 59,
+      "width": 1920,
+      "height": 1080,
+      "embed_code": "<iframe title=\"vimeo-player\" src=\"https://player.vimeo.com/video/850066909?h=4480c522fd\" width=\"640\" height=\"360\" frameborder=\"0\" referrerpolicy=\"strict-origin-when-cross-origin\" allow=\"autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share\"   allowfullscreen></iframe>",
+      "thumbnail_url": "https://i.vimeocdn.com/video/1704355255-9f83aef5f0ffd97454d3e4bf9983a5e5addf9ba14c92dfd0c6f50633bb83a5df-d",
+      "embed_permission": "public",
+      "poster_filename": "video-850066909-poster.jpg",
+      "playback_note": "Official public Vimeo embed. Public configuration offers expiring HLS/DASH streaming URLs, no stable progressive MP4."
+    },
+    {
+      "source_page": "https://www.byggnadsbiten.se/sida/dalakaken",
+      "embed_url": "https://player.vimeo.com/video/850067104?share=copy",
+      "id": "850067104",
+      "title": "Dalakåken grund- Byggnadsbiten",
+      "duration": 56,
+      "width": 1920,
+      "height": 1080,
+      "embed_code": "<iframe title=\"vimeo-player\" src=\"https://player.vimeo.com/video/850067104?h=6cd52b2cac\" width=\"640\" height=\"360\" frameborder=\"0\" referrerpolicy=\"strict-origin-when-cross-origin\" allow=\"autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share\"   allowfullscreen></iframe>",
+      "thumbnail_url": "https://i.vimeocdn.com/video/1704355584-0ff66ee7b4dba7981b259f11e59de4e6205999b7d6d9fcc6a771b03ed8ed545f-d",
+      "embed_permission": "public",
+      "poster_filename": "video-850067104-poster.jpg",
+      "playback_note": "Official public Vimeo embed. Public configuration offers expiring HLS/DASH streaming URLs, no stable progressive MP4."
+    },
+    {
+      "source_page": "https://www.byggnadsbiten.se/sida/dalakaken",
+      "embed_url": "https://player.vimeo.com/video/850066379?share=copy",
+      "id": "850066379",
+      "title": "Dalakåken del 1-Bygggnadbiten",
+      "duration": 59,
+      "width": 1920,
+      "height": 1080,
+      "embed_code": "<iframe title=\"vimeo-player\" src=\"https://player.vimeo.com/video/850066379?h=b7b6cb7633\" width=\"640\" height=\"360\" frameborder=\"0\" referrerpolicy=\"strict-origin-when-cross-origin\" allow=\"autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share\"   allowfullscreen></iframe>",
+      "thumbnail_url": "https://i.vimeocdn.com/video/1704354486-0c372c833ab580ddc143e6564f7a8dbbe9629fbe53f74f09305078b6d8b6dee8-d",
+      "embed_permission": "public",
+      "poster_filename": "video-850066379-poster.jpg",
+      "playback_note": "Official public Vimeo embed. Public configuration offers expiring HLS/DASH streaming URLs, no stable progressive MP4."
+    },
+    {
+      "source_page": "https://www.byggnadsbiten.se/sida/dalakaken",
+      "embed_url": "https://player.vimeo.com/video/850908202?share=copy",
+      "id": "850908202",
+      "title": "Tegelläggning-Byggnadsbiten",
+      "duration": 50,
+      "width": 1920,
+      "height": 1080,
+      "embed_code": "<iframe title=\"vimeo-player\" src=\"https://player.vimeo.com/video/850908202?h=8abe7d53dd\" width=\"640\" height=\"360\" frameborder=\"0\" referrerpolicy=\"strict-origin-when-cross-origin\" allow=\"autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share\"   allowfullscreen></iframe>",
+      "thumbnail_url": "https://i.vimeocdn.com/video/1705435789-d74abd05a3a406adc2fb73c2a9f6c4cb517a94caf273c9cad6a62f0743aef960-d",
+      "embed_permission": "public",
+      "poster_filename": "video-850908202-poster.jpg",
+      "playback_note": "Official public Vimeo embed. Public configuration offers expiring HLS/DASH streaming URLs, no stable progressive MP4."
+    }
+  ],
+  "notes": [
+    "All media downloaded from public official website or its official Vimeo player thumbnails. No stock or AI substitutes added.",
+    "Gallery filenames and original source alt texts are preserved; source captions are often generic. Do not infer customer names or project locations.",
+    "One gallery item uses a Shutterstock filename and is flagged stock_filename=true.",
+    "Vimeo player configuration exposes expiring HLS/DASH URLs; use official public embeds instead of hardcoding expiring video-file URLs."
+  ]
+}

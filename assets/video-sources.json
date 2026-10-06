@@ -1,0 +1,47 @@
+[
+  {
+    "filename": "video-850875029.mp4",
+    "source_page": "https://www.byggnadsbiten.se/",
+    "official_embed": "<iframe title=\"vimeo-player\" src=\"https://player.vimeo.com/video/850875029?h=be779003c0\" width=\"640\" height=\"360\" frameborder=\"0\" referrerpolicy=\"strict-origin-when-cross-origin\" allow=\"autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share\"   allowfullscreen></iframe>",
+    "title": "Startfilm-Byggnadsbiten",
+    "duration_seconds": 17,
+    "processing": "Original public H.264/AAC stream remuxed to MP4; no editorial edits.",
+    "retrieved": "2026-10-05"
+  },
+  {
+    "filename": "video-850066909.mp4",
+    "source_page": "https://www.byggnadsbiten.se/sida/dalakaken",
+    "official_embed": "<iframe title=\"vimeo-player\" src=\"https://player.vimeo.com/video/850066909?h=4480c522fd\" width=\"640\" height=\"360\" frameborder=\"0\" referrerpolicy=\"strict-origin-when-cross-origin\" allow=\"autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share\"   allowfullscreen></iframe>",
+    "title": "Dalakåken del 2- Byggnadsbiten",
+    "duration_seconds": 59,
+    "processing": "Original public H.264/AAC stream remuxed to MP4; no editorial edits.",
+    "retrieved": "2026-10-05"
+  },
+  {
+    "filename": "video-850067104.mp4",
+    "source_page": "https://www.byggnadsbiten.se/sida/dalakaken",
+    "official_embed": "<iframe title=\"vimeo-player\" src=\"https://player.vimeo.com/video/850067104?h=6cd52b2cac\" width=\"640\" height=\"360\" frameborder=\"0\" referrerpolicy=\"strict-origin-when-cross-origin\" allow=\"autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share\"   allowfullscreen></iframe>",
+    "title": "Dalakåken grund- Byggnadsbiten",
+    "duration_seconds": 56,
+    "processing": "Original public H.264/AAC stream remuxed to MP4; no editorial edits.",
+    "retrieved": "2026-10-05"
+  },
+  {
+    "filename": "video-850066379.mp4",
+    "source_page": "https://www.byggnadsbiten.se/sida/dalakaken",
+    "official_embed": "<iframe title=\"vimeo-player\" src=\"https://player.vimeo.com/video/850066379?h=b7b6cb7633\" width=\"640\" height=\"360\" frameborder=\"0\" referrerpolicy=\"strict-origin-when-cross-origin\" allow=\"autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share\"   allowfullscreen></iframe>",
+    "title": "Dalakåken del 1-Bygggnadbiten",
+    "duration_seconds": 59,
+    "processing": "Original public H.264/AAC stream remuxed to MP4; no editorial edits.",
+    "retrieved": "2026-10-05"
+  },
+  {
+    "filename": "video-850908202.mp4",
+    "source_page": "https://www.byggnadsbiten.se/sida/dalakaken",
+    "official_embed": "<iframe title=\"vimeo-player\" src=\"https://player.vimeo.com/video/850908202?h=8abe7d53dd\" width=\"640\" height=\"360\" frameborder=\"0\" referrerpolicy=\"strict-origin-when-cross-origin\" allow=\"autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share\"   allowfullscreen></iframe>",
+    "title": "Tegelläggning-Byggnadsbiten",
+    "duration_seconds": 50,
+    "processing": "Original public H.264/AAC stream remuxed to MP4; no editorial edits.",
+    "retrieved": "2026-10-05"
+  }
+]
